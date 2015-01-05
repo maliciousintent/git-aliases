@@ -5,6 +5,11 @@ git aliases for our team
 
 ## Install
 
+Pre-requisites:
+
+* ```tig```
+
+
 ```bash
 curl https://raw.githubusercontent.com/plasticpanda/git-aliases/master/git-aliases >> ~/.aliases
 source ~/.aliases
